@@ -1,0 +1,545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: museun\n"
+"POT-Creation-Date: 2020-12-25 10:13+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: My Super Team\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Эту страницу&rsquo; невозможно найти."
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Похоже, в этом месте ничего не было найдено. Может быть, попробуйте одну из "
+"ссылок ниже или поиск?"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "Наиболее часто используемые категории"
+
+#: 404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать в ежемесячных архивах.%1$s"
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Одна мысль на &ldquo;%1$s&rdquo;"
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: functions.php:124 functions.php:134 functions.php:144
+msgid "Custom logo"
+msgstr "Пользовательский логотип"
+
+#: functions.php:125
+msgid "Display a custom logo?"
+msgstr "Показывать собственный логотип?"
+
+#: functions.php:185
+msgid "Events"
+msgstr "События"
+
+#: functions.php:186 functions.php:196
+msgid "Event"
+msgstr "Событие"
+
+#: functions.php:187
+msgid "Add event"
+msgstr "Добавить событие"
+
+#: functions.php:188
+msgid "Adding a event"
+msgstr "Добавление события"
+
+#: functions.php:189
+msgid "Editing a event"
+msgstr "Изменить событие"
+
+#: functions.php:190
+msgid "New event"
+msgstr "Новое событие"
+
+#: functions.php:191
+msgid "Watch events"
+msgstr "Смотреть события"
+
+#: functions.php:192
+msgid "Search for events"
+msgstr "Поиск событий"
+
+#: functions.php:193 functions.php:319
+msgid "Not found"
+msgstr "Не найден"
+
+#: functions.php:194 functions.php:320
+msgid "Not found in cart"
+msgstr "Не найдено в корзине"
+
+#: functions.php:198
+msgid "Events section"
+msgstr "Раздел с событиями"
+
+#: functions.php:235
+msgctxt "taxonomy general name"
+msgid "Types"
+msgstr "Типы"
+
+#: functions.php:236
+msgctxt "taxonomy singular name"
+msgid "Type"
+msgstr "Тип"
+
+#: functions.php:237
+msgid "Search Types"
+msgstr "Поиск типов"
+
+#: functions.php:238
+msgid "All Types"
+msgstr "Все типы"
+
+#: functions.php:239
+msgid "Parent Type"
+msgstr "Родительский тип"
+
+#: functions.php:240
+msgid "Parent Type:"
+msgstr "Родительский тип:"
+
+#: functions.php:241
+msgid "Edit Type"
+msgstr "Изменить тип"
+
+#: functions.php:242
+msgid "Update Type"
+msgstr "Обновить тип"
+
+#: functions.php:243
+msgid "Add New Type"
+msgstr "Добавить Новый Тип"
+
+#: functions.php:244
+msgid "New Type Name"
+msgstr "Новое имя типа"
+
+#: functions.php:245
+msgid "Type"
+msgstr "Тип"
+
+#: functions.php:256
+msgctxt "taxonomy general name"
+msgid "Painters"
+msgstr "Художник"
+
+#: functions.php:257
+msgctxt "taxonomy singular name"
+msgid "Painter"
+msgstr "Художник"
+
+#: functions.php:258
+msgid "Search Painters"
+msgstr "Поиск художников"
+
+#: functions.php:259
+msgid "Popular Painters"
+msgstr "Популярный художник"
+
+#: functions.php:260
+msgid "All Painters"
+msgstr "Все художники"
+
+#: functions.php:263
+msgid "Edit Painter"
+msgstr "Изменить художника"
+
+#: functions.php:264
+msgid "Update Painter"
+msgstr "Обновить художника"
+
+#: functions.php:265
+msgid "Add New Painter"
+msgstr "Добавить Нового Художника"
+
+#: functions.php:266
+msgid "New Painter Name"
+msgstr "Новое имя художника"
+
+#: functions.php:267
+msgid "Separate Painters with commas"
+msgstr "Разделяйте художников запятыми"
+
+#: functions.php:268
+msgid "Add or remove Painters"
+msgstr "Добавить или удалить художников"
+
+#: functions.php:269
+msgid "Choose from the most used Painters"
+msgstr "Выберите из наиболее часто используемых художников"
+
+#: functions.php:270
+msgid "Painters"
+msgstr "Художник"
+
+#: functions.php:280
+msgctxt "taxonomy general name"
+msgid "Periods"
+msgstr "Периоды"
+
+#: functions.php:281
+msgctxt "taxonomy singular name"
+msgid "Period"
+msgstr "Паериод"
+
+#: functions.php:282
+msgid "Search Period"
+msgstr "Поиск периода"
+
+#: functions.php:283
+msgid "Popular Period"
+msgstr "Популярный период"
+
+#: functions.php:284
+msgid "All Periods"
+msgstr "Все периоды"
+
+#: functions.php:287
+msgid "Edit Period"
+msgstr "Изменить период"
+
+#: functions.php:288
+msgid "Update Period"
+msgstr "Обновить период"
+
+#: functions.php:289
+msgid "Add New Period"
+msgstr "Добавить Новый перод"
+
+#: functions.php:290
+msgid "New Period Name"
+msgstr "Новое имя периода"
+
+#: functions.php:291
+msgid "Separate Periods with commas"
+msgstr "Разделяйте периоды запятыми"
+
+#: functions.php:292
+msgid "Add or remove Periods"
+msgstr "Добавить или удалитьпериод"
+
+#: functions.php:293
+msgid "Choose from the most used Periods"
+msgstr "Выберите из наиболее часто используемых периодов"
+
+#: functions.php:294
+msgid "Periods"
+msgstr "Периоды"
+
+#: functions.php:311
+msgid "Educational programs"
+msgstr "Образовательные программы"
+
+#: functions.php:312 functions.php:322
+msgid "Educational program"
+msgstr "Образовательная программа"
+
+#: functions.php:313
+msgid "Add programm"
+msgstr "Добавить программу"
+
+#: functions.php:314
+msgid "Adding a programm"
+msgstr "Добавление программы"
+
+#: functions.php:315
+msgid "Editing a programm"
+msgstr "Изменить программу"
+
+#: functions.php:316
+msgid "New programm"
+msgstr "Новая программа"
+
+#: functions.php:317
+msgid "Watch programms"
+msgstr "Смотреть программы"
+
+#: functions.php:318
+msgid "Search for programms"
+msgstr "Поиск программ"
+
+#: functions.php:324
+msgid "Section with programs"
+msgstr "Раздел с образовательными программами"
+
+#: functions.php:373
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:375 functions.php:472 functions.php:483 functions.php:496
+#: functions.php:508 functions.php:521
+msgid "Add widgets here."
+msgstr "Добавьте сюда виджеты."
+
+#: functions.php:470
+msgid "Sidebar on the main"
+msgstr "Сайдбар на главном"
+
+#: functions.php:481
+msgid "Sidebar in footer"
+msgstr "Сайдбар в подвале"
+
+#: functions.php:494
+msgid "Sidebar second in footer"
+msgstr "Сайдбар второй в подвале"
+
+#: functions.php:506
+msgid "Sidebar third in footer"
+msgstr "Сайдбар третий в подвале"
+
+#: functions.php:519
+msgid "Sidebar fourth in footer"
+msgstr "Сайдбар четвертый в подвале"
+
+#: functions.php:630 functions.php:786
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: functions.php:635 functions.php:1058
+msgid "Link to на vk:"
+msgstr "Ссылка на vk:"
+
+#: functions.php:639 functions.php:1062
+msgid "Link to на instagram:"
+msgstr "Ссылка на instagram:"
+
+#: functions.php:643
+msgid "Link to на telegram:"
+msgstr "Ссылка на telegram:"
+
+#: functions.php:647 functions.php:1066
+msgid "Link to на facebook:"
+msgstr "Ссылка на facebook:"
+
+#: functions.php:651
+msgid "Link to на whatsapp:"
+msgstr "Ссылка на whatsapp:"
+
+#: functions.php:791
+msgid "Enter holiday time:"
+msgstr "Введите выходное время:"
+
+#: functions.php:795
+msgid "Enter business hours:"
+msgstr "Введите рабочее время:"
+
+#: functions.php:926
+msgid "Enter your mobile phone number:"
+msgstr "Введите мобильный номер телефона:"
+
+#: functions.php:930
+msgid "Enter your work phone number:"
+msgstr "Введите раюочий номер телефона:"
+
+#: functions.php:1184
+msgid "Enter site name:"
+msgstr "Введите имя сайта:"
+
+#: functions.php:1188
+msgid "Enter text:"
+msgstr "Введите текст:"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Помечено %1$s"
+
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\"> на %s</span>"
+
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить<span class=\"screen-reader-text\">%s</span>"
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: single-event.php:73 single-programm.php:73
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: single-event.php:75 single-programm.php:75
+msgid "Next"
+msgstr "Следующий"
+
+#: single.php:23
+msgid "Previous:"
+msgstr "Предыдущий:"
+
+#: single.php:24
+msgid "Next:"
+msgstr "Следующий:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свой первый пост?<a href=\"%1$s\">Начни здесь</a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствовало вашим условиям поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Кажется, мы &rsquo; не можем найти то, что вы ищете&rsquo;. Возможно, поиск "
+"поможет."
+
+#: template-parts/content-page.php:25 template-parts/content.php:53
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content.php:40
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#, fuzzy
+#~| msgid "Search Painters"
+#~ msgid "Search Publication date"
+#~ msgstr "Поиск художников"
+
+#, fuzzy
+#~| msgid "Popular Painters"
+#~ msgid "Popular Publication date"
+#~ msgstr "Популярный художник"
+
+#, fuzzy
+#~| msgid "All Painters"
+#~ msgid "All Publication date"
+#~ msgstr "Все художники"
+
+#, fuzzy
+#~| msgid "Edit Painter"
+#~ msgid "Edit Publication date"
+#~ msgstr "Изменить художника"
+
+#, fuzzy
+#~| msgid "Update Painter"
+#~ msgid "Update Publication date"
+#~ msgstr "Обновить художника"
+
+#, fuzzy
+#~| msgid "Add New Painter"
+#~ msgid "Add New Publication date"
+#~ msgstr "Добавить Нового Художника"
+
+#, fuzzy
+#~| msgid "New Painter Name"
+#~ msgid "New Publication date Name"
+#~ msgstr "Новое имя художника"
+
+#, fuzzy
+#~| msgid "Separate Painters with commas"
+#~ msgid "Separate Publication date with commas"
+#~ msgstr "Разделяйте художников запятыми"
+
+#, fuzzy
+#~| msgid "Add or remove Painters"
+#~ msgid "Add or remove Publication date"
+#~ msgstr "Добавить или удалить художников"
+
+#, fuzzy
+#~| msgid "Choose from the most used Painters"
+#~ msgid "Choose from the most used Publication date"
+#~ msgstr "Выберите из наиболее часто используемых художников"
+
+#~ msgid "Following"
+#~ msgstr "Следущее"
+
+#~ msgctxt "museum"
+#~ msgid "Event"
+#~ msgstr "Событие"
+
+#~ msgid "Logo"
+#~ msgstr "Логотип"
+
+#~ msgid "Authors"
+#~ msgstr "Авторы"
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "upload_custom_logo"
+#~ msgstr "upload_custom_logo"
+
+#~ msgid "custom_logo"
+#~ msgstr "пользовательский логотип"
+
+#~ msgid "custom_logo2"
+#~ msgstr "пользовательский логотип2"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Authors"
+#~ msgstr "Авторы"
+
+#~ msgctxt "museum"
+#~ msgid "Educational program"
+#~ msgstr "Образовательная программа"
